@@ -1,7 +1,3 @@
-Linia 858
-Linia 955
-Linia 296
-Linia 630
 Linia 535
 Linia 557
 Linia 374
