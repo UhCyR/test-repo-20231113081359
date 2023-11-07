@@ -1,12 +1,3 @@
-Linia 242
-Linia 895
-Linia 161
-Linia 331
-Linia 727
-Linia 809
-Linia 49
-Linia 309
-Linia 803
 Linia 896
 Linia 99
 Linia 327
