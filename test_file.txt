@@ -105,3 +105,12 @@ Linia 342
 Linia 503
 Linia 52
 Linia 490
+Linia 2
+Linia 532
+Linia 858
+Linia 430
+Linia 896
+Linia 541
+Linia 678
+Linia 330
+Linia 527
