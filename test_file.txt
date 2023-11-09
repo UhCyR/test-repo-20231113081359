@@ -1,10 +1,3 @@
-Linia 480
-Linia 447
-Linia 995
-Linia 754
-Linia 849
-Linia 585
-Linia 557
 Linia 579
 Linia 858
 Linia 603
