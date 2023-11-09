@@ -1,6 +1,3 @@
-Linia 512
-Linia 29
-Linia 736
 Linia 967
 Linia 22
 Linia 213
