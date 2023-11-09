@@ -1,6 +1,3 @@
-Linia 896
-Linia 99
-Linia 327
 Linia 796
 Linia 240
 Linia 706
