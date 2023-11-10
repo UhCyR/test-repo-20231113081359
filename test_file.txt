@@ -1,7 +1,3 @@
-Linia 718
-Linia 793
-Linia 371
-Linia 2
 Linia 399
 Linia 282
 Linia 901
