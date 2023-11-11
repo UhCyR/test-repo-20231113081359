@@ -1,6 +1,3 @@
-Linia 86
-Linia 127
-Linia 281
 Linia 138
 Linia 304
 Linia 172
