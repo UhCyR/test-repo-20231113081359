@@ -1,7 +1,3 @@
-Linia 138
-Linia 304
-Linia 172
-Linia 324
 Linia 954
 Linia 333
 Linia 956
