@@ -1,6 +1,3 @@
-Linia 460
-Linia 244
-Linia 194
 Linia 382
 Linia 744
 Linia 656
